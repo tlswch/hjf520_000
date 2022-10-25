@@ -1,4 +1,4 @@
-{spider:'https://gitee.com/hjf521/tvbox/raw/master/0902.jar',lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvamllMjAwOTExMTYvY2F0L21haW4vVFZCT1gvMTgudHh0']}]}],sites:[{key:'csp_CZSPP',name:'[默认]小韩资源',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUrl":"https://player.movie09.com/dplayer/?url=","playUrl":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, {
+{spider:'https://gitee.com/hjf521/tvbox/raw/master/0902.jar',lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMzI5NC8zMjEudHh0']}]}],sites:[{key:'csp_CZSPP',name:'[默认]小韩资源',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUrl":"https://player.movie09.com/dplayer/?url=","playUrl":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, {
 	     "key": "Lezhu_spider",
 	     "name": "🐷乐猪影视",
 	     "api": "csp_Lezhu",
