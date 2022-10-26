@@ -1,4 +1,4 @@
-{spider:'https://gitee.com/hjf521/tvbox/raw/master/0902.jar',lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],sites:[{"key": "[默认]小韩资源","name": "🍎[默认]小韩资源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},{key:'csp_CZSPP',name:'小韩资源2',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUrl":"https://player.movie09.com/dplayer/?url=","playUrl":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
+{spider:'https://gitee.com/hjf521/tvbox/raw/master/0902.jar',lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],sites:[{"key": "[默认]小韩资源，如有问题，请加QQ 82920159","name": "🍎[默认]小韩资源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},{key:'csp_CZSPP',name:'小韩资源2',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUrl":"https://player.movie09.com/dplayer/?url=","playUrl":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
  {
             "key": "csp_QQ",
             "name": "腾讯视频（小韩破解）",
@@ -54,7 +54,6 @@
  
 {"key": "csp_剧荒","name": "👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0828.jar"},
 {"key": "3EDY","name": "☘️3EDY〔SP〕","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "小熊","name": "🐨小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/hjf521/tvbox/raw/master/0902.jar"},
 {"key": "Kuaikan","name": "🈷️月光快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"mjxq_spider","name":"🌏美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_花猫TV","name":"花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2786/%E8%8A%B1%E7%8C%ABTV.json?sign=xpzYasgxjhsTBWyAKgqRpQhoodbKr5NslBiSSEBWplo%3D%3A0"},
