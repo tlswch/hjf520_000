@@ -6,7 +6,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://agit.ai/hjf520/000/raw/branch/master/0902.jar"
         },
         {
             "key": "csp_MGTV",
@@ -16,7 +16,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://agit.ai/hjf520/000/raw/branch/master/0902.jar"
         },
         {
             "key": "csp_IQIYI",
@@ -26,7 +26,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://agit.ai/hjf520/000/raw/branch/master/0902.jar"
         },
 		{       "key": "Lezhu_spider",
 	     "name": "🐷乐猪影视",
