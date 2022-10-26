@@ -1,6 +1,6 @@
 {spider:'https://gitee.com/hjf521/tvbox/raw/master/0902.jar',lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],sites:[{"key": "[默认]小韩资源","name": "🍎[默认]小韩资源","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},{key:'csp_CZSPP',name:'小韩资源2',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUrl":"https://player.movie09.com/dplayer/?url=","playUrl":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
 "
-		{       "key": "Lezhu_spider",
+{       "key": "Lezhu_spider",
 	     "name": "🐷乐猪影视",
 	     "api": "csp_Lezhu",
 	     "type": 3,
