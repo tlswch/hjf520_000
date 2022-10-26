@@ -7,7 +7,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        }",
+            "jar": "https://gitee.com/hjf521/tvbox/raw/master/0902.jar"
+	    },
         {
             "key": "csp_MGTV",
             "name": "芒果（SP）",
