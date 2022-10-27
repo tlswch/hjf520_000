@@ -118,7 +118,7 @@
 	{
 		"name": "解析06",
 		"type": 0,
-		"url": "https://vip.parwix.com:4433/player/?url="
+		"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
 	},	
 	{
 		"name": "parwix稳定",
