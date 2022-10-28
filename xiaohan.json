@@ -47,11 +47,11 @@ sites:[{
 			"key":"csp_kuaikan",
 			"name":"👀快看","type":3,
 			"api":"csp_Kuaikan",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
 			"date":"2022-10-09 16:05:11"
-	    }，
+	    },
 		{       "key": "Lezhu_spider",
 	     "name": "🐷乐猪影视",
 	     "api": "csp_Lezhu",
