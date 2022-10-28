@@ -7,7 +7,8 @@ sites:[{
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-           },
+            "date":"2022-10-09 16:05:11"
+		   },
 {"key":"小韩资源1",name:"🍎小韩资源1", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
 {key:'小韩资源3',name:'🍎小韩资源2',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源4',name:'🍎小韩资源3',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
