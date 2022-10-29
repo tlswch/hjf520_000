@@ -43,8 +43,71 @@ sites:[{
             "filterable": 1,
             "jar": "https://gitee.com/hjf521/tvbox/raw/master/0902.jar"
         },
-		{key:'云解析资源网 - 优酷资源',name:'youku',type:3,api:'https://api.yparse.com/api/json/youku', "playUr1":"https://yparse.jn1.cc/index.php?url=",searchable:1,quickSearch:1,filterable:1}, 
-
+		{
+      "key": "youku",
+      "name": "👑优酷(小韩破解)",
+      "type": 0,
+      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "动画片",
+        "武侠片",
+        "奇幻片",
+        "少儿",
+        "其他片"
+      ]
+    },
+    {
+      "key": "PpTV",
+      "name": "📺PPTV(小韩破解)",
+      "type": 0,
+      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "动画片",
+        "武侠片",
+        "少儿",
+        "其他片"
+      ]
+	   },
 		{
 			"key":"csp_kuaikan",
 			"name":"👀快看","type":3,
@@ -253,9 +316,13 @@ sites:[{
 		"url": "https://jx.parwix.com:4433/player/?url="
 	}, 	
 {"name":"小韩破解", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"小韩破解2", "type":1,"url":"https://svip.bljiex.cc/?v=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"小韩破解3", "type":1,"url":"https://yparse.jn1.cc/index.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-
+{"name":"小韩破解2", "type":1,"url":"https://svip.bljiex.cc/?v="},
+{"name":"小韩破解3", "type":1,"url":"https://yparse.jn1.cc/index.php?url="},
+{
+            "name": "小韩解析4",
+            "type": 1,
+            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+        }，
 {"name":"365","type":0,"url": "https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"8old","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
