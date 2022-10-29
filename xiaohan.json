@@ -43,7 +43,7 @@ sites:[{
             "filterable": 1,
             "jar": "https://gitee.com/hjf521/tvbox/raw/master/0902.jar"
         },
-		{key:'云解析资源网 - 优酷资源',name:'🍎优酷（小韩破解）',type:3,api:'https://api.yparse.com/api/json/youku', "playUr1":"https://yparse.jn1.cc/index.php?url=",searchable:1,quickSearch:1,filterable:1}, 
+		{key:'云解析资源网 - 优酷资源',name:'youku',type:3,api:'https://api.yparse.com/api/json/youku', "playUr1":"https://yparse.jn1.cc/index.php?url=",searchable:1,quickSearch:1,filterable:1}, 
 
 		{
 			"key":"csp_kuaikan",
