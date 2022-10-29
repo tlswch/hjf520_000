@@ -301,16 +301,12 @@ sites:[{
 	    "url":"https://okjx.cc/?url="
 	},
 	{
-		"name": "解析02",
+		"name": "解析03",
 		"type": 0,
 		"url": "https://www.nxflv.com/?url="
 	}, 
-	{
-		"name": "牛逼解析",
-		"type": 0,
-		"url": "https://nbjx.vip/?url="
-	}, 
-	{
+	
+{
 		"name": "parwix",
 		"type": 0,
 		"url": "https://jx.parwix.com:4433/player/?url="
@@ -350,11 +346,8 @@ sites:[{
 {"name":"vip视频解析2","type":0,"url":"https://www.administratorw.com/video.php?url="},
 {"name":"vip视频解析3","type":0,"url":"https://v.znb.me/?url="},
 {"name":"vip视频解析4","type":0,"url":"https://2.08bk.com/?url="},
-{"name":"vip视频解析5剧集","type":0,"url":"https://z1.m1907.cn/?a=1&jx="},
 {"name":"vip视频解析6","type":0,"url":"https://jx.ergan.top/?url="},
 {"name":"vip视频解析7","type":0,"url":"https://jx.iztyy.com/svip/?url="},
-{"name":"vip视频解析8","type":0,"url":"https://jx.70808.net/?url="},
-{"name":"vip视频解析9","type":0,"url":"https://17kyun.com/api.php?url="},
 {"name":"vip视频解析10","type":0,"url":"https://vip.parwix.com:4433/player/?url="},
 {"name":"vip视频解析11","type":0,"url":"https://vip.bljiex.com/?v="},
 {"name":"盘古视频解析","type":0,"url":"http://www.pangujiexi.com/jiexi/?url="},
