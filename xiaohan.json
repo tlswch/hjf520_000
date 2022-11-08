@@ -374,11 +374,21 @@ sites:[{
 {"name":"小韩破解", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"小韩破解2", "type":1,"url":"https://svip.bljiex.cc/?v="},
 {"name":"小韩破解3", "type":1,"url":"https://yparse.jn1.cc/index.php?url="},
-{
-            "name": "小韩破解4",
-            "type": 1,
-            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-        },
+ {
+		"name": "OKjx综合",
+		"type": 0,
+		"url": "https://okjx.cc/?url="
+	},
+   {
+    "name": "OKjx嗅探",
+    "type": 0,
+    "url": "https://okjx.cc/?url="
+    },
+	{
+		"name": "云you解析①",
+		"type": 1,
+		"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url="
+	}, 
 {
             "name": "小韩破解5",
             "type": 1,
