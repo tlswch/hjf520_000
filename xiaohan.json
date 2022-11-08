@@ -1,4 +1,5 @@
-{spider:'https://gitee.com/hjf521/tvbox/raw/master/0902.jar',lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
+{"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1104.jpg;md5;cfd37febf4e6ae415de48355a9431550"
+,lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
 sites:[{
             "key" : "360_spider",
             "name" : "【默认】🍎小韩资源，持续维护，如有失效请加微信/QQ/同号：82920159",
