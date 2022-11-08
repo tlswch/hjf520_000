@@ -11,7 +11,7 @@ sites:[{
         },
 {"key":"小韩资源1",name:"🍎小韩资源1，持续维护，如有失效请加微信/QQ/同号：82920159", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
 {key:'小韩资源3',name:'🍎小韩资源2，持续维护，如有失效请加微信/QQ/同号：82920159',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
-{key:'小韩资源4',name:'🍎小韩资源3，持续维护，如有失效请加微信/QQ/同号：82920159',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
+{key:'小韩资源4',name:'🍎小韩资源3',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源5',name:'🍎小韩资源4',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUr1":"https://player.movie09.com/dplayer/?url=","playUr2":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
 {
             "key": "csp_QQ",
@@ -207,7 +207,6 @@ sites:[{
 {"key": "MV","name": "🅱️歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33112/%E6%AD%8C%E6%9B%B2MV.json?sign=KB_Qwrac-uvlJFIVoaZNoyFKolNnM9ETQxd61-_wRsE%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
 {"key": "少儿","name": "🅱️教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/33113/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=M9Yy0JDj_uwsAsiHY0YChEk27S55kj30rdi_3zU7Nb4%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/31693/mtv.json?sign=zzAxHDF7eAXNvp55rUpNfuLy31ZfUJyLTpWxwE_plBc%3D%3A0"},
-{"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力〔XP〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXP/音范丝磁力.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
 {"key":"1","name":"🔞🈲小韩提醒您，未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"18","name":"🔞🈲小韩提醒您，未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"12","name":"🔞🈲小韩提醒您，未成年人禁止访问，请止步！！","type":0,"api":""},
