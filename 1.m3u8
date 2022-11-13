@@ -15,10 +15,10 @@ sites:[{
 {key:'小韩资源4',name:'🍎小韩资源3，关注公众号【小韩影视】以防丢失',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源5',name:'🍎小韩资源4，关注公众号【小韩影视】以防丢失',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUr1":"https://player.movie09.com/dplayer/?url=","playUr2":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
 {
-            "key": "qq",
+            "key": "csp_QQ",
             "name": "🍎腾讯视频（小韩解析）",
             "type": 3,
-            "api": "https://api.yparse.com/api/xml",
+            "api": "csp_QQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
