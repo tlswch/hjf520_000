@@ -18,7 +18,7 @@ sites:[{
             "key": "qq",
             "name": "🍎腾讯视频（小韩解析）",
             "type": 3,
-            "api": "https://api.yparse.com/api/json",
+            "api": "https://api.yparse.com/api/xml",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
