@@ -2,7 +2,7 @@
 ,lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
 sites:[{
             "key" : "360_spider",
-            "name" : "【默认】🍎小韩资源，持续维护，如有失效请加微信/QQ/同号：82920159",
+            "name" : "🍎小韩资源，关注公众号【小韩影视】以防丢失",
             "api" : "csp_SP360",
             "type" : 3,
             "filterable" : 1,
@@ -10,13 +10,13 @@ sites:[{
             "searchable" : 1,
             "ext" : "https://agit.ai/hjf520/000/raw/branch/master/py_kuaikan.py"
         },
-{"key":"小韩资源1",name:"🍎小韩资源1，持续维护，如有失效请加微信/QQ/同号：82920159", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
-{key:'小韩资源3',name:'🍎小韩资源2，持续维护，如有失效请加微信/QQ/同号：82920159',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
-{key:'小韩资源4',name:'🍎小韩资源3',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
-{key:'小韩资源5',name:'🍎小韩资源4',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUr1":"https://player.movie09.com/dplayer/?url=","playUr2":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
+{"key":"小韩资源1",name:"🍎小韩资源1，关注公众号【小韩影视】以防丢失", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
+{key:'小韩资源3',name:'🍎小韩资源2，关注公众号【小韩影视】以防丢失',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
+{key:'小韩资源4',name:'🍎小韩资源3，关注公众号【小韩影视】以防丢失',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
+{key:'小韩资源5',name:'🍎小韩资源4，关注公众号【小韩影视】以防丢失',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUr1":"https://player.movie09.com/dplayer/?url=","playUr2":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
 {
             "key": "csp_QQ",
-            "name": "🍎腾讯视频（小韩破解）",
+            "name": "🍎腾讯视频（小韩解析）",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -26,7 +26,7 @@ sites:[{
 	    },
         {
             "key": "csp_MGTV",
-            "name": "🍎芒果TV（小韩破解）",
+            "name": "🍎芒果TV（小韩解析）",
             "type": 3,
             "api": "csp_MGTV",
             "searchable": 1,
@@ -36,7 +36,7 @@ sites:[{
         },
         {
             "key": "🍎csp_IQIYI",
-            "name": "🍎爱奇艺（小韩破解）",
+            "name": "🍎爱奇艺（小韩解析）",
             "type": 3,
             "api": "csp_IQIYI",
             "searchable": 1,
@@ -46,7 +46,7 @@ sites:[{
         },
 		{
       "key": "youku",
-      "name": "👑优酷(小韩破解)",
+      "name": "👑优酷(小韩解析)",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
@@ -79,7 +79,7 @@ sites:[{
      },
    {
 			"key": "PpTV",
-			"name": "📺PPTV（小韩破解）",
+			"name": "📺PPTV（小韩解析）",
 			"type": 0,
 			"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
 			"searchable": 0,
@@ -345,7 +345,7 @@ sites:[{
 {key:'酷伦理',name:'酷伦理-伦理',type:1,api:'https://api.kudian70.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'博天堂',name:'博天堂-伦理',type:0,api:'http://bttcj.com/inc/sapi.php',searchable:1,quickSearch:1,filterable:0},
 {"key":"说明2","name":"------持续更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"说明3","name":"------小韩影视------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"说明3","name":"------，关注公众号【小韩影视】以防丢失------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明4","name":"------持续更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}],
 "parses": [ 
   {"name":"解析聚合","type":3,"url":"Demo"},
