@@ -221,7 +221,7 @@ sites:[{
     "name":"❤聚优直播",
     "type": 3,
     "api": "csp_xBPQ",
-"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/hjf520/000/raw/branch/master/juyou.json","jar":"https://agit.ai/hjf520/000/raw/branch/master/xBPQ_1107_%e4%bf%ae%e5%a4%8d%e5%a4%9a%e7%ba%bfbug.jar"},
+"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/hjf520/000/raw/branch/master/juyou.json","jar":"https://agit.ai/hjf520/000/raw/branch/master/xBPQ_1107_%e4%bf%ae%e5%a4%8d%e5%a4%9a%e7%ba%bfbug.jar"},
 {key:'❤91麻豆',name:'❤91麻豆源',type:1,api:'https://91md.me/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤丝袜资源',name:'❤丝袜资源',type:1,api:'https://siwazyw.cc/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤色猫资源',name:'❤色猫资源',type:1,api:'https://api.maozyapi.com/inc/apijson_vod.php',searchable:0,quickSearch:0},
