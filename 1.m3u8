@@ -18,7 +18,7 @@ sites:[{
             "key": "csp_QQ",
             "name": "🍎腾讯视频（小韩解析）",
             "type": 3,
-            "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/qq/at/xml/",
+            "api": "https://api.yparse.com/api/json/qq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
