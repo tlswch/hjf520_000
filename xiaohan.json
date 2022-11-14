@@ -216,6 +216,12 @@ sites:[{
 {"key":"18","name":"🔞🈲小韩提醒您，未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"12","name":"🔞🈲小韩提醒您，未成年人禁止访问，请止步！！","type":0,"api":""},
 {
+    "key": "csp_xBPQ_聚优",
+    "name":"聚优",
+    "type": 3,
+    "api": "csp_xBPQ",
+"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/hjf520/000/raw/branch/master/juyou.json","jar":"https://agit.ai/hjf520/000/raw/branch/master/1A.jar"},   
+{
 "key": "精工厂",
 "name": "精工厂",
 "type": 0,
