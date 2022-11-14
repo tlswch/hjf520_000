@@ -18,11 +18,11 @@ sites:[{
             "key": "qq",
             "name": "云解析资源网 - 腾讯资源",
             "type": 3,
-            "api": "https://api.yparse.com/api/json/qq",
+            "api": "https://api.yparse.com/api/xml/qq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://agit.ai/hjf520/000/raw/branch/master/xBPQ_1107_%e4%bf%ae%e5%a4%8d%e5%a4%9a%e7%ba%bfbug.jar"
+            "jar": "https://gitee.com/hjf521/tvbox/raw/master/0902.jar"
 	    },
         {
             "key": "csp_MGTV",
