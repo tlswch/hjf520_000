@@ -18,7 +18,7 @@ sites:[{
             "key": "qq",
             "name": "云解析资源网 - 腾讯资源",
             "type": 3,
-            "api": "https://api.yparse.com/api/xml/qq",
+            "api": "https://api.yparse.com/api/json/qq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
