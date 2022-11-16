@@ -103,16 +103,7 @@ sites:[{
   "ext": "",
   "jar": "http://8.210.220.114:8888/down/bRqB2uqaSrIP.jar"
 },
- {
-            "key":"csp_xBPQ_um影院",
-            "name":"▎UM影院 ▎",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"http://8.210.220.114:8888/down/07E7fKLN8sBf.json"
-        },
+ {"key":"sliu_spider", "name":"▎石榴电影 ▎", "type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2, "searchable":1,"jar":"http://8.210.220.114:8888/down/0BtE0wJNl1WG.jar"},
 {"key":"deyuys","name":"▎段友影视 ▎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://8.210.220.114:8888/down/gFmiTUDILGbM.json",
  "jar": "http://8.210.220.114:8888/down/mk1l7hwEYGfH.jar"
