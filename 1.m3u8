@@ -486,7 +486,7 @@ sites:[{
 {"name":"解析","type":1,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
 {"name":"思古3","type":1,"url":"https://jsap.attakids.com/?url="},
 {"name":"云端1","type":1,"url":"https://js.52jx.top:2525/?url="},
-{"name":"云端2","type":1,"url":"https://sb.5gseo.net/?url="}
+{"name":"云端2","type":1,"url":"https://sb.5gseo.net/?url="},
 
 {"name":"ckflv","type":1,"url":"http://api.ckflv.cn/?url="},
 {"name": "Json1","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
