@@ -113,8 +113,9 @@ sites:[{
             "filterable":0,
             "ext":"http://8.210.220.114:8888/down/07E7fKLN8sBf.json"
         },
-		{"key": "drpy007影视","name":"▎007影视 ▎","type":3,"api":"http://8.210.220.114:8888/down/XfaqgiZJFeTz.js",
- "ext": "http://8.210.220.114:8888/down/lS2g4rIMngw1.js"
+		{"key":"deyuys","name":"▎段友影视 ▎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://8.210.220.114:8888/down/gFmiTUDILGbM.json",
+ "jar": "http://8.210.220.114:8888/down/mk1l7hwEYGfH.jar"
 },
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
