@@ -488,8 +488,7 @@ sites:[{
 {"name":"云端1","type":1,"url":"https://js.52jx.top:2525/?url="},
 {"name":"云端2","type":1,"url":"https://sb.5gseo.net/?url="}
 
-],
-"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
+{"name": "Json1","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "Web2","type": 0,"url": "https://vip.parwix.com:4433/player/?url=","ext": {"flag": ["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"Json3","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["imgo","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
@@ -501,6 +500,8 @@ sites:[{
 {"name": "Json10","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"Web6","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="}
 ],
+	
+	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 "ijk":[
