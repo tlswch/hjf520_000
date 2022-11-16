@@ -1,5 +1,18 @@
 {"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1104.jpg;md5;cfd37febf4e6ae415de48355a9431550","wallpaper":"https://agit.ai/hjf520/000/raw/branch/master/api.php"
-,lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
+,
+	"rules": [
+{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+{"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]},
+{"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]},
+{"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
+{"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
+{"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
+],
+lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
 sites:[{
             "key" : "360_spider",
             "name" : "🍎小韩资源，关注公众号【小韩影视】以防丢失",
@@ -77,6 +90,31 @@ sites:[{
         "其他片"
       ]
      },
+{
+  "key": "Relax",
+  "name": "▎轻松视频 ▎",
+  "type": 3,
+  "api": "csp_RelaxSP",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "ext": "",
+  "jar": "http://8.210.220.114:8888/down/bRqB2uqaSrIP.jar"
+},
+ {
+            "key":"csp_xBPQ_um影院",
+            "name":"▎UM影院 ▎",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"http://8.210.220.114:8888/down/07E7fKLN8sBf.json"
+        },
+		{"key": "drpy007影视","name":"▎007影视 ▎","type":3,"api":"http://8.210.220.114:8888/down/XfaqgiZJFeTz.js",
+ "ext": "http://8.210.220.114:8888/down/lS2g4rIMngw1.js"
+},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Auete","name":"🐼奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -329,6 +367,7 @@ sites:[{
 "parses": [ 
   {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
+{"name": "Web聚合","type": 3,"url": "Web"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {
 	    "name":"小韩特别VIP解析",
