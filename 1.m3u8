@@ -28,8 +28,8 @@ sites:[{
 {key:'小韩资源4',name:'🍎小韩资源3，关注公众号【小韩影视】以防丢失',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源5',name:'🍎小韩资源4，关注公众号【小韩影视】以防丢失',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUr1":"https://player.movie09.com/dplayer/?url=","playUr2":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
 {
-            "key": "csp_QQ",
-            "name": "🍎腾讯视频（小韩解析）",
+            "key": "🍎csp_QQ",
+            "name": "🍎腾讯视频",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -38,8 +38,8 @@ sites:[{
             "jar": "https://gitee.com/hjf521/tvbox/raw/master/0902.jar"
 	    },
         {
-            "key": "csp_MGTV",
-            "name": "🍎芒果TV（小韩解析）",
+            "key": "🍎csp_MGTV",
+            "name": "🍎芒果TV",
             "type": 3,
             "api": "csp_MGTV",
             "searchable": 1,
@@ -49,7 +49,7 @@ sites:[{
         },
         {
             "key": "🍎csp_IQIYI",
-            "name": "🍎爱奇艺（小韩解析）",
+            "name": "🍎爱奇艺",
             "type": 3,
             "api": "csp_IQIYI",
             "searchable": 1,
