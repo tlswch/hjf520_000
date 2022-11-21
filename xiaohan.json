@@ -29,7 +29,7 @@ sites:[{
 {key:'小韩资源5',name:'🍎小韩资源4，关注公众号【小韩影视】以防丢失',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUr1":"https://player.movie09.com/dplayer/?url=","playUr2":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
 {
             "key": "qq",
-            "name": "🐧腾讯视频",
+            "name": "云解析资源网 - 腾讯资源",
             "type": 1,
             "api": "https://api.yparse.com/api/json/qq",
             "searchable": 1,
