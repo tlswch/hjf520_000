@@ -50,7 +50,7 @@ sites:[{
         },
 		{
       "key": "youku",
-      "name": "👑优酷(小韩解析)",
+      "name": "👑优酷",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
