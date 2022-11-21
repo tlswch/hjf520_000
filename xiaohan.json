@@ -31,7 +31,7 @@ sites:[{
             "key": "csp_QQ",
             "name": "🐧腾讯视频",
             "type": 3,
-            "api": "csp_QQ",
+            "api": "https://api.yparse.com/api/json/qq",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
