@@ -2,7 +2,7 @@
 ,lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
 sites:[{"key":"1","name":"小韩提醒您，此版本已停用！！请下载最新版本！！！！","type":0,"api":""},
 {"key":"18","name":"小韩提醒您，此版本已停用！！请下载最新版本！！！！","type":0,"api":""},
-{"key":"12","name":"小韩提醒您，此版本已停用！！请下载最新版本！！！！","type":0,"api":""},
+{"key":"12","name":"小韩提醒您，此版本已停用！！请下载最新版本！！！！","type":0,"api":""}
 ],
 "parses": [ 
   {"name":"解析聚合","type":3,"url":"Demo"},
