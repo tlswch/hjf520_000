@@ -34,8 +34,8 @@ sites:[{
             "api": "csp_QQ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-            
+            "filterable": 1,
+            "jar": "https://agit.ai/hjf520/000/raw/branch/master/1112-%e6%9a%b4%e5%8a%9b5%e5%90%881.zip"
 	    },
         {
             "key": "🍎csp_MGTV",
