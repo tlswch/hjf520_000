@@ -210,7 +210,7 @@ sites:[
     "name":"❤聚优直播",
     "type": 3,
     "api": "csp_xBPQ",
-"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/hjf520/000/raw/branch/master/juyou.json","jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
+"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/hjf520/000/raw/branch/master/juyou.json"},
 {key:'❤91麻豆',name:'❤91麻豆源',type:1,api:'https://91md.me/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤丝袜资源',name:'❤丝袜资源',type:1,api:'https://siwazyw.cc/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤色猫资源',name:'❤色猫资源',type:1,api:'https://api.maozyapi.com/inc/apijson_vod.php',searchable:0,quickSearch:0},
