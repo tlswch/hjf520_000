@@ -1,5 +1,12 @@
-{"spider":"https://agit.ai/hjf520/000/raw/branch/master/%e5%85%ac%e4%bc%97%e5%8f%b7%e5%90%be%e7%88%b1%e6%9c%89%e4%b8%89%e6%97%a5%e6%9c%88%e4%b8%8e%e5%8d%bf0719.jar","wallpaper":"https://agit.ai/hjf520/000/raw/branch/master/api.php"
-,
+
+
+//0719JAR
+//"spider":"http://52bsj.vip:81/api/v3/file/get/768/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0719.jar?sign=zH9rMT-Uy_WpE0bPeyPzs1QOgbl0NZXdF5KOFuhEgfw%3D%3A0",
+
+
+
+//0730JAR
+"spider":"http://52bsj.vip:81/api/v3/file/get/56996/1009.jar?sign=mO17Y9bJ_-nMnSZogCFcCVskXX7aC-YTuIvwbIm-IEU%3D%3A0;md5;648653a1067c03abb0ef369a463d7e20",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
