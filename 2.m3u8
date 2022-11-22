@@ -284,7 +284,7 @@ sites:[
 {key:'*KK写真资源',name:'*KK写真资源',type:1,api:'https://kkzy.me/api.php/provide/vod/?ac=list',searchable:0,quickSearch:0},
 {key:'*乐播资源',name:'*乐播资源',type:1,api:'https://lbapi9.com/api.php/provide/vod/',searchable:0,quickSearch:0},
 
-{"key":"说明1","name":"------持续更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"说明6","name":"------持续更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明2","name":"------ 关注公众号 ------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明3","name":"------【小韩影视】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明4","name":"------持续更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}],
