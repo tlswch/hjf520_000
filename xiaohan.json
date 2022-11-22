@@ -3,8 +3,6 @@
 //0719JAR
 //"spider":"http://52bsj.vip:81/api/v3/file/get/768/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0719.jar?sign=zH9rMT-Uy_WpE0bPeyPzs1QOgbl0NZXdF5KOFuhEgfw%3D%3A0",
 
-
-
 //0730JAR
 "spider":"http://52bsj.vip:81/api/v3/file/get/56996/1009.jar?sign=mO17Y9bJ_-nMnSZogCFcCVskXX7aC-YTuIvwbIm-IEU%3D%3A0;md5;648653a1067c03abb0ef369a463d7e20",
 	"rules": [
@@ -109,6 +107,7 @@ sites:[
 	     "searchable": 1,
 	     "jar":"http://52bsj.vip:81/api/v3/file/get/41344/jar0826.jar?sign=ynL7G6jUsM4xB5uXv1Ph-U6_QjzfeRLY0IvJkzErbeI%3D%3A0"
     },
+{"key":"csp_Cokemv","name":"🚗可乐影视〔SP〕","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1116.jpg;md5;ab44104cfabc8c6da7b54124a0c36a5a"},
 {"key":"csp_XBPQTVB影视","name":"🎞️TVB云播〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63303/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json?sign=D7u6b1vB57heVQdexskilQyAnu6CAOY0J1gIxm0wDvs%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
 {"key":"csp_XBPQ吼吼影视","name":"🎞️吼吼影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63304/%E5%90%BC%E5%90%BC%28xBPQ%29.json?sign=V7Jqm42NGjs5jP8Hn7gqamNtCAMLulk5paVu0cSN7mI%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
 {"key":"csp_XBPQ攻洛阁影视","name":"🎞️落阁影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63305/%E8%90%BD%E6%94%BB%E9%98%81%28xBPQ%29.json?sign=ih0c4ZTkdheIFK8qLpyWhTyjVDdxArIZXEdFXM_G624%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
@@ -187,7 +186,6 @@ sites:[
 			"ext": "http://45.125.46.61/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
 		},
 {"key": "csp_xpath_lenxitv","name": "🎞️冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/lenxi.json"},   
-{"key":"csp_biubiu_OmoFun动漫","name":"👑OmoFun动漫〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/OmoFun动漫.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢真 不 卡〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json"},
 {"key":"csp_xp_789kp","name":"💢789 看片〔XB〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/789kp.json"},
 {"key":"csp_xp_wnvod","name": "💢万能影视〔XB〕","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
