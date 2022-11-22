@@ -1,4 +1,4 @@
-{"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1104.jpg;md5;cfd37febf4e6ae415de48355a9431550","wallpaper":"https://agit.ai/hjf520/000/raw/branch/master/api.php"
+{"spider":"https://agit.ai/hjf520/000/raw/branch/master/%e5%85%ac%e4%bc%97%e5%8f%b7%e5%90%be%e7%88%b1%e6%9c%89%e4%b8%89%e6%97%a5%e6%9c%88%e4%b8%8e%e5%8d%bf0719.jar","wallpaper":"https://agit.ai/hjf520/000/raw/branch/master/api.php"
 ,
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
