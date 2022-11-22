@@ -1,5 +1,12 @@
-{"spider":"https://agit.ai/hjf520/000/raw/branch/master/%e5%85%ac%e4%bc%97%e5%8f%b7%e5%90%be%e7%88%b1%e6%9c%89%e4%b8%89%e6%97%a5%e6%9c%88%e4%b8%8e%e5%8d%bf0719.jar","wallpaper":"https://agit.ai/hjf520/000/raw/branch/master/api.php"
-,
+{
+
+//0719JAR
+//"spider":"http://52bsj.vip:81/api/v3/file/get/768/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0719.jar?sign=zH9rMT-Uy_WpE0bPeyPzs1QOgbl0NZXdF5KOFuhEgfw%3D%3A0",
+
+
+
+//0730JAR
+"spider":"http://52bsj.vip:81/api/v3/file/get/56996/1009.jar?sign=mO17Y9bJ_-nMnSZogCFcCVskXX7aC-YTuIvwbIm-IEU%3D%3A0;md5;648653a1067c03abb0ef369a463d7e20",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
@@ -82,7 +89,7 @@ sites:[
 
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dy555","name":"5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key": "3EDY","name": "☘️3EDY〔SP〕","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🐼奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {
 			"key":"csp_kuaikan",
@@ -186,8 +193,8 @@ sites:[
 {"key":"csp_xp_wnvod","name": "💢万能影视〔XB〕","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/wnvod.json"},
 {"key":"csp_biubiu_voflix","name":"💢vo fl ix〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/voflix.json"},
 {"key":"csp_biubiu_完美看看影视","name":"💢完美看看〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/完美看看.json"},
-{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/douyu.json"},
-{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},
+{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼〔直播〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/douyu.json","jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
+{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
 
 {"key": "Bili","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/33110/%E5%93%94%E5%93%A9.json?sign=bfFrA3Ub4BqSYHavVzc5BVYQuvwuGROwx8QLWbKbb3A%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
 {"key": "演唱会","name": "🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33114/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=JgZ1FuOl12vukIkRas_T4v4Zg_l999m2JVHDiqhGLic%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/41062/bili.jar?sign=7AtCZhy5987QnuOKnZuP_XnaH6fqCqV5DaSqjtUplbc%3D%3A0"},
