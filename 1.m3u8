@@ -1,26 +1,9 @@
-﻿//公众号【云星日记】
-//公众号【云星日记】
-//公众号【云星日记】
-
-//多个个仓库：多个在线，一个本地
-//本地仓库：需要配合公众号本地包使用详情前往公众号回复关键词
-//在线仓库使用教程公众号回复【可视TV仓库地址】
-//本地仓库使用教程公众号回复【TVBox本地接口】
-
-//•Q①群号：783468715（2k人满）
-//•Q②群号：764366711（2k人满）
-//•Q③群号：211185159（新群）
-
-//QQ频道：搜索云星日记即可           
-//微信群;加客服赞赏入群           
-//客服微信:Yc_zhxx
-
-
+﻿
 {
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1116.jpg;md5;ab44104cfabc8c6da7b54124a0c36a5a",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
   
