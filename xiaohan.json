@@ -1,4 +1,4 @@
-{"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1104.jpg;md5;cfd37febf4e6ae415de48355a9431550","wallpaper":"https://agit.ai/hjf520/000/raw/branch/master/api.php"
+{"spider":"https://agit.ai/hjf520/000/raw/branch/master/%e5%85%ac%e4%bc%97%e5%8f%b7%e5%90%be%e7%88%b1%e6%9c%89%e4%b8%89%e6%97%a5%e6%9c%88%e4%b8%8e%e5%8d%bf0719.jar","wallpaper":"https://agit.ai/hjf520/000/raw/branch/master/api.php"
 ,
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
@@ -13,16 +13,7 @@
 {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
 lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
-sites:[{
-            "key" : "360_spider",
-            "name" : "🍎小韩资源，关注公众号【小韩影视】以防丢失",
-            "api" : "csp_SP360",
-            "type" : 3,
-            "filterable" : 1,
-            "quickSearch" : 1,
-            "searchable" : 1,
-            "ext" : "https://agit.ai/hjf520/000/raw/branch/master/py_kuaikan.py"
-        },
+sites:[
 {"key":"小韩资源1",name:"🍎小韩资源1，关注公众号【小韩影视】以防丢失", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
 {key:'小韩资源3',name:'🍎小韩资源2，关注公众号【小韩影视】以防丢失',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源4',name:'🍎小韩资源3，关注公众号【小韩影视】以防丢失',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
@@ -184,10 +175,6 @@ sites:[{
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
 		},
-{"key":"csp_AppTT","name":"👶图图影视〔SP〕","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1
-			},
-{"key":"csp_Cokemv","name":"🚗可乐影视〔SP〕","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1
-			},
 {"key": "csp_xpath_lenxitv","name": "🎞️冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/lenxi.json"},   
 {"key":"csp_biubiu_OmoFun动漫","name":"👑OmoFun动漫〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/OmoFun动漫.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢真 不 卡〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json"},
@@ -257,7 +244,6 @@ sites:[{
 {key:'*淫水机资源',name:'*淫水机资源',type:0,api:'https://www.xrbsp.com/api/xml.php',searchable:1,quickSearch:0},
 {key:'*香奶儿资源',name:'*香奶儿资源',type:0,api:'https://www.gdlsp.com/api/xml.php',searchable:1,quickSearch:0},
 {key:'*白嫖资源',name:'*白嫖资源',type:0,api:'https://www.kxgav.com/api/xml.php',searchable:1,quickSearch:0},
-{key:'*色色资源',name:'*色色资源',type:0,api:'http://secj8.com/inc/sapi.php?ac=videolist',searchable:1,quickSearch:0},
 {key:'*博天堂',name:'*博天堂',type:0,api:'http://bttcj.com/inc/sapi.php',searchable:0,quickSearch:0},
 {key:'*狼少年',name:'*狼少年',type:0,api:'http://cjmygzy.com/inc/sapi.php?ac=videolist',searchable:1,quickSearch:0},
 {key:'*大地资源',name:'*大地资源',type:0,api:'https://dadiapi.com/api.php',searchable:1,quickSearch:0},
