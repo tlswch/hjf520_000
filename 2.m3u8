@@ -236,9 +236,6 @@ sites:[
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
         },
-	{"key":"XYQBiu_测试2",	"name":"❤zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/zb.json",		"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
-	{"key":"XYQBiu_测试3",	"name":"❤cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/cqzy.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
-	{"key":"XYQBiu_测试4",	"name":"❤nsss(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/nsss.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
 	{"key":"csp_hsck",		"name":"❤Hsck","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar": "http://52bsj.vip:81/api/v3/file/get/61635/18.jar?sign=TqxkdwFQQUaAK59b950h1sgG8P6HKPbIGIFgvsBrhtQ%3D%3A0"},	
     {
       "key": "18AV",
@@ -276,10 +273,9 @@ sites:[
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/18av.js"
         },
-{"key":"*色南国资源","name":"*❤色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*皇冠资源","name":"*❤皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "*AIvin","name": "*❤AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
-{"key":"csp_biubiu_GAOAA","name":"*❤GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42848/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE%3D%3A0"},
+{"key":"csp_biubiu_GAOAA","name":"*❤GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/42848/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE%3D%3A0"},
 {"key": "精工厂","name": "*❤精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
 {"key":"说明6","name":"------持续更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明2","name":"------ 关注公众号 ------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
