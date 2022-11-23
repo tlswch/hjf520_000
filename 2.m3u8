@@ -222,7 +222,7 @@ sites:[
 {key:'*丝袜资源',name:'❤丝袜资源',type:1,api:'https://siwazyw.cc/api.php/provide/vod/',searchable:1,quickSearch:0},
 {key:'*葡萄资源',name:'❤葡萄资源',type:1,api:'https://api.putaozy.net/inc/apijson_vod.php',searchable:1,quickSearch:0},
 {key:'*天噜啦资源',name:'❤天噜啦资源',type:0,api:'http://www.987caiji.com/api/max.php',searchable:1,quickSearch:0},
-key:'J',name:'❤99资源2',type:0,api:'http://mygzycj.com/api.php?ac=list',playUrl:'',categories:[],quickSearch:0},
+{key:'J',name:'❤99资源2',type:0,api:'http://mygzycj.com/api.php?ac=list',playUrl:'',categories:[],quickSearch:0},
 {key:'S',name:'❤色色资源',type:0,api:'http://secj8.com/inc/sapi.php?ac=videolist',playUrl:'',categories:[],quickSearch:0},
 {key:'玖',name:'❤99资源3',type:0,api:'http://99zywcj.com/inc/sapi.php?ac=videolist',playUrl:'',categories:[],quickSearch:0},
 {key:'小姐姐资源',name:'❤小姐姐资源',type:0,api:'https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml',searchable:1,quickSearch:1,filterable:0},
