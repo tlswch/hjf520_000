@@ -22,7 +22,7 @@ sites:[
 {"key":"小韩资源1",name:"🍎小韩资源1，关注公众号【小韩影视】以防丢失", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
 {key:'小韩资源3',name:'🍎小韩资源2，关注公众号【小韩影视】以防丢失',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源4',name:'🍎小韩资源3，关注公众号【小韩影视】以防丢失',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
-{key:'小韩资源5',name:'🍎小韩资源4，关注公众号【小韩影视】以防丢失',type:1,api:'https://www.ddzyz1.com/api.php/provide/vod/', "playUr1":"https://player.movie09.com/dplayer/?url=","playUr2":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
+{key:'小韩资源5',name:'🍎小韩资源4，关注公众号【小韩影视】以防丢失',type:1,api:'https://www.ddzyz1.cc/api.php/provide/vod/', "playUr1":"https://player.movie09.com/dplayer/?url=","playUr2":"https://play.5blfq.com/dplayer/?url=",searchable:1,quickSearch:1,filterable:0}, 
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
         {
             "key": "🍎csp_MGTV",
