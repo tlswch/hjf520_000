@@ -231,7 +231,7 @@ sites:[
 {"key":"AList",	"name":"❤AList2",	"type":3,"api":"csp_AList",	"searchable":1,"filterable":1,"ext":"❤9T$https://drive.9t.ee#🔞木偶$https://www.kugutsu.ml",	"jar": "http://52bsj.vip:81/api/v3/file/get/61625/cs.jar?sign=bRzGWw4pD0b6L063rLkEWTQsRD2B6XDQKlHEuAeZm0o%3D%3A0"},
 		{
             "key" : "drpy_js_喵了个咪",
-            "name" : "❤喵了个咪[请使用365解析]",
+            "name" : "❤喵了个咪(DRPY)",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
@@ -261,7 +261,7 @@ sites:[
         },
 		{
             "key" : "drpy_js_吸瓜",
-            "name" : "❤吸瓜[请使用365解析]",
+            "name" : "❤吸瓜(DRPY)",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%90%B8%E7%93%9C.js"
