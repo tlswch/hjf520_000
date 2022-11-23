@@ -205,7 +205,7 @@ sites:[
 {key:'❤速度资源',name:'❤速度资源',type:0,api:'http://www.ggmmzy.com:9999/inc/xml',searchable:0,quickSearch:0},
 {key:'*博天堂',name:'❤博天堂',type:0,api:'http://bttcj.com/inc/sapi.php',playUrl:'',searchable:1,quickSearch:0},
 {key:'*环亚资源',name:'❤环亚资源',type:0,api:'http://wmcj8.com/inc/sapi.php',searchable:1,quickSearch:0},
-{key:'ASMR',name:'🈲❤ASMR(优)',type:1,api:'http://www.asmr19.in/api.php/provide/vod/',searchable:1,quickSearch:1},
+{key:'ASMR',name:'❤ASMR(优)',type:1,api:'http://www.asmr19.in/api.php/provide/vod/',searchable:1,quickSearch:1},
 {key:'秀色资源',name:'❤秀色资源',type:0,api:'https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/',playUrl:'https://api.xiusebf.com/m3u8/?url=',searchable:1,quickSearch:1,filterable:0},
 {key:'老鸭资源',name:'❤老鸭资源',type:0,api:'https://api.apilyzy.com/api.php/provide/vod/at/xml',playUrl:'https://player.77lehuo.com/aliplayer/?url=',searchable:1,quickSearch:1,filterable:0},
 {key:'酷伦理',name:'❤酷伦理-伦理',type:1,api:'https://api.kudian70.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
@@ -222,7 +222,8 @@ sites:[
 {key:'*丝袜资源',name:'❤丝袜资源',type:1,api:'https://siwazyw.cc/api.php/provide/vod/',searchable:1,quickSearch:0},
 {key:'*葡萄资源',name:'❤葡萄资源',type:1,api:'https://api.putaozy.net/inc/apijson_vod.php',searchable:1,quickSearch:0},
 {key:'*天噜啦资源',name:'❤天噜啦资源',type:0,api:'http://www.987caiji.com/api/max.php',searchable:1,quickSearch:0},
-key:'J',name:'❤99资源2',type:0,api:'http://mygzycj.com/api.php?ac=list',playUrl:'',categories:[],quickSearch:0},{key:'S',name:'❤色色资源',type:0,api:'http://secj8.com/inc/sapi.php?ac=videolist',playUrl:'',categories:[],quickSearch:0},
+key:'J',name:'❤99资源2',type:0,api:'http://mygzycj.com/api.php?ac=list',playUrl:'',categories:[],quickSearch:0},
+{key:'S',name:'❤色色资源',type:0,api:'http://secj8.com/inc/sapi.php?ac=videolist',playUrl:'',categories:[],quickSearch:0},
 {key:'玖',name:'❤99资源3',type:0,api:'http://99zywcj.com/inc/sapi.php?ac=videolist',playUrl:'',categories:[],quickSearch:0},
 {key:'小姐姐资源',name:'❤小姐姐资源',type:0,api:'https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml',searchable:1,quickSearch:1,filterable:0},
 {key:'*KK写真资源',name:'❤KK写真资源',type:1,api:'https://kkzy.me/api.php/provide/vod/?ac=list',searchable:0,quickSearch:0},
@@ -280,8 +281,6 @@ key:'J',name:'❤99资源2',type:0,api:'http://mygzycj.com/api.php?ac=list',play
 {"key": "*AIvin","name": "*❤AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
 {"key":"csp_biubiu_GAOAA","name":"*❤GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42848/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE%3D%3A0"},
 {"key": "精工厂","name": "*❤精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
-
-
 {"key":"说明6","name":"------持续更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明2","name":"------ 关注公众号 ------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明3","name":"------【小韩影视】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
