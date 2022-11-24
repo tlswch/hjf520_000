@@ -48,12 +48,30 @@ sites:[
 		
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-{"key":"小猫咪","name":"小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},
+{
+		"key": "py_ikan",
+		"name": "爱看影视（PY）",
+		"type": 3,
+		"api": "py_ikan",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_ikan.py"
+	},
 {"key":"39影视","name":"39影视(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_思乐影视","name":"🥒思乐影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/思乐影视.json"},
 
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
-{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
+{
+		"key": "py_zxzj",
+		"name": "在线之家（PY）",
+		"type": 3,
+		"api": "py_zxzj",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_zxzj.py"
+	},
 {"key":"csp_Auete","name":"🐼奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {
 			"key":"csp_kuaikan",
