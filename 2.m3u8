@@ -53,7 +53,7 @@ sites:[
 {"key":"csp_biubiu_思乐影视","name":"🥒思乐影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/思乐影视.json"},
 
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
-{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hjf521/tvbox/raw/master/0902.jar"},
+{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
 {"key":"csp_Auete","name":"🐼奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {
 			"key":"csp_kuaikan",
