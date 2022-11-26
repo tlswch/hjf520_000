@@ -49,7 +49,7 @@ sites:[
 		{"key": "youku","name": "📺优酷💎","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0,"categories": ["综艺",
 "动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"],"jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0822.jar"},
 {"key": "PpTV","name": "📺PPTV💎","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"],"jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0822.jar"},
-{"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","playUrl":"https://jx.yparse.com/index.php?url=","searchable":1,"quickSearch":1},
 
 {
 		"key": "py_ikan",
@@ -240,6 +240,10 @@ sites:[
     "api": "csp_xBPQ",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/hjf520/000/raw/branch/master/juyou.json"},
 {key:'❤91麻豆',name:'❤91麻豆源',type:1,api:'https://91md.me/api.php/provide/vod/',searchable:0,quickSearch:0},
+{key:"❤富二代资源", "name":"❤富二代资源", "type": 0, "api": "http://f2dcj6.com/sapi?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
+{key:"❤字幕网资源", "name":"❤字幕网资源", "type": 0, "api": "http://zmcj88.com/sapi?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
+{key:"❤久草资源", "name":"❤久草资源", "type": 0, "api": "http://jcspcj8.com/sapi?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
+{key:"❤利来资源", "name":"❤利来资源", "type": 0, "api": "http://llzxcj.com/inc/sck.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
 {key:'❤丝袜资源',name:'❤丝袜资源',type:1,api:'https://siwazyw.cc/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤色猫资源',name:'❤色猫资源',type:1,api:'https://api.maozyapi.com/inc/apijson_vod.php',searchable:0,quickSearch:0},
 {key:'❤花魁资源',name:'❤花魁资源',type:1,api:'https://caiji.huakuiapi.com/inc/apijson_vod.php',searchable:0,quickSearch:0},
@@ -266,7 +270,7 @@ sites:[
 {key:'❤美少女资源',name:'❤美少女资源',type:0,api:'https://www.msnii.com/api/xml.php',searchable:0,quickSearch:0},
 {key:'❤白嫖资源',name:'❤白嫖资源',type:0,api:'https://www.kxgav.com/api/xml.php',searchable:0,quickSearch:0},
 {key:'❤CK资源',name:'❤CK资源',type:1,api:'http://www.feifei67.com/api.php/provide/vod/',searchable:0,quickSearch:0},
-{key:'❤色色资源',name:'❤色色资源',type:0,api:'http://secj8.com/inc/sapi.php?ac=videolist',searchable:0,quickSearch:0},
+{key:"❤JAV名优", "name":"❤JAV名优馆", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
 {key:'❤番号资源',name:'❤番号资源',type:1,api:'http://fhapi9.com/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤鲨鱼资源',name:'❤鲨鱼资源',type:1,api:'https://shayuapi.com/api.php/provide/vod/',searchable:0,quickSearch:0},
 {key:'❤速度资源',name:'❤速度资源',type:0,api:'http://www.ggmmzy.com:9999/inc/xml',searchable:0,quickSearch:0},
