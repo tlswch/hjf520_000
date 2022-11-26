@@ -5,6 +5,7 @@
 
 //0730JAR
 "spider":"http://52bsj.vip:81/api/v3/file/get/56996/1009.jar?sign=mO17Y9bJ_-nMnSZogCFcCVskXX7aC-YTuIvwbIm-IEU%3D%3A0;md5;648653a1067c03abb0ef369a463d7e20",
+"wallpaper":"https://壁纸.神器每日推送.tk",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
