@@ -169,16 +169,7 @@ sites:[
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"
 		},
-{
-			"key": "csp_biubiu_影视工厂",
-			"name": "🎬影视工厂",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
-		},
+{"key": "csp_biubiu_影视工厂","name": "🎑影视工厂","type": 3,"api": "csp_XBiubiu","searchable": 1,	"quickSearch": 1,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/61555/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json?sign=30JHwwq5hE4YG_7diB8H8J4WZOQvmPtx0cliXcYtPAI%3D%3A0"},
 {"key":"天堂资源","name":"📌天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {
 			"key": "csp_biubiu_骚火电影",
