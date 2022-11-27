@@ -144,7 +144,12 @@ sites:[
 {"key":"金鹰资源","name":"🐞金鹰影视","type": 1,"api": "https://api.tomcaiji.com/api.php/provide/vod/?ac=list",searchable:1,quickSearch:1,filterable:0},       
 {"key": "快车资源","name": "👿快车影视","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod","playUrl":" https://jiexi.kczyapi.com/m3u8/?url=",searchable:1,quickSearch:1,filterable:0},
 {"key":"csp_xbb_金眼影视","name":"🍀金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61558/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json?sign=Sq5mRASvVXrTTE_PDYV7x8vBS7LU3avVtrvvuSRX45g%3D%3A0"},
-{"key":"AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
+{"key":"AppTT","name":"🐰饭团影视","type":3,type: 3,
+api: "csp_Fantuan",
+searchable: 1,
+quickSearch: 1,
+filterable: 1
+},
 {"key":"mjxq_spider","name":"🌏美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_牛马TV","name":"🍀牛马TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61563/%E7%89%9B%E9%A9%ACTV.json?sign=0Se90jxV5xOwVSGaqT5unS0YHz3oVIt_uEb1TxyZe-8%3D%3A0"},
 {"key":"csp_xbb_city电影","name":"🍀城市电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61564/city%E7%94%B5%E5%BD%B1.json?sign=FqgC9vhuQyK4ckz6Zet3Ks0NiXXNlKg3x2PsuZbOQsg%3D%3A0"},
@@ -169,7 +174,12 @@ sites:[
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"
 		},
-{"key": "csp_biubiu_影视工厂","name": "🎑影视工厂","type": 3,"api": "csp_XBiubiu","searchable": 1,	"quickSearch": 1,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/61555/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json?sign=30JHwwq5hE4YG_7diB8H8J4WZOQvmPtx0cliXcYtPAI%3D%3A0"},
+{"key": "csp_biubiu_影视工厂","name": "🎑影视工厂","type": 3,type: 3,
+"api": "csp_Ysgc",
+searchable: 1,
+quickSearch: 1,
+filterable: 1
+},
 {"key":"天堂资源","name":"📌天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {
 			"key": "csp_biubiu_骚火电影",
