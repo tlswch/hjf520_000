@@ -3,8 +3,8 @@
 
 {
 
-//0730JAR
-"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/888.png;md5;86A2E6D82742D949C4FDC0B981085655",
+
+"spider":"https://agit.ai/hjf520/000/raw/branch/master/%e5%85%ac%e4%bc%97%e5%8f%b7%e5%90%be%e7%88%b1%e6%9c%89%e4%b8%89%e6%97%a5%e6%9c%88%e4%b8%8e%e5%8d%bf0719.jar",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
