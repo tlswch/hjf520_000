@@ -3,7 +3,7 @@
 {
 
 
-"spider":"https://agit.ai/hjf520/000/raw/branch/master/%e5%85%ac%e4%bc%97%e5%8f%b7%e5%90%be%e7%88%b1%e6%9c%89%e4%b8%89%e6%97%a5%e6%9c%88%e4%b8%8e%e5%8d%bf0719.jar",
+"spider":"https://agit.ai/hjf520/000/raw/branch/master/0902.jar",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
