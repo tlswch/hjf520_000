@@ -1,10 +1,10 @@
 ﻿
 // 加微信-【XHYS_VIP】以防丢失：持续维护更新......
-// 本接口 https://agit.ai/hjf520/000/raw/branch/master/2.m3u8  收集自网络上github上各位大佬的分享，自用接口，感谢每位无私奉献和分享的大佬！如有冒犯请联系。
+// 本接口 https://agit.ai/hjf520/000/raw/branch/master/1.m3u8  收集自网络上github上各位大佬的分享，自用接口，感谢每位无私奉献和分享的大佬！如有冒犯请联系。
 {
 
 
-"spider":"https://agit.ai/hjf520/000/raw/branch/master/0902.jar",
+"spider":"http://52bsj.vip:81/api/v3/file/get/31693/mtv.json?sign=zzAxHDF7eAXNvp55rUpNfuLy31ZfUJyLTpWxwE_plBc%3D%3A0",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
