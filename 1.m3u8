@@ -4,7 +4,8 @@
 {
 
 
-"spider":"http://52bsj.vip:81/api/v3/file/get/31693/mtv.json?sign=zzAxHDF7eAXNvp55rUpNfuLy31ZfUJyLTpWxwE_plBc%3D%3A0",
+"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
+//"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
