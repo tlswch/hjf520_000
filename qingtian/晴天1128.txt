@@ -785,7 +785,7 @@ SHOWCASE MOVIES,P2p://ns3.hellotvvod.com:9906/1e4be88c9ece4741ba929cceaf14c739
 EYE TV戏剧台,P2p://ns3.hellotvvod.com:9906/29eee816a3704a73a216b188bc7a9c42
 爱尔达影剧台,P2p://ns3.hellotvvod.com:9906/ca25a77c284644fa8bca6414b9ed9fab
 亚洲剧台,P2p://ns3.hellotvvod.com:9906/ea5feeac53324bdab3d9f431468f7d45
-SP,_66#genre#
+SP_66,#genre#
 彩虹e台,P2p://ns3.hellotvvod.com:9906/d50c10377c3d41fcb17f0990461ee1ce
 彩虹电影台,P2p://ns3.hellotvvod.com:9906/44e6584c8f064e72be399df6636f9349
 LOOK TV,P2p://ns3.hellotvvod.com:9906/4c2cb29800b74150a84dd17de3d397ce
