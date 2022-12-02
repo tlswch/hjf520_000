@@ -80,6 +80,17 @@ ELEVEN2[1280*720],rtmp://59.124.75.138/sat/tv741
 好消息电视台1[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息电视台2[1920*1080],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
+群友分享,#genre#
+芒市综合[1920*1080],http://live.ynurl.com/video/s10001-mstv1/index.m3u8梅河口综合[1024*576],http://stream4.jlntv.cn/mhk/sd/live.m3u8
+星空卫视,http://113.117.74.11:808/hls/87/index.m3u8
+ChannelV,http://113.117.74.11:808/hls/88/index.m3u8
+明珠台,http://113.117.74.11:808/hls/26/index.m3u8
+翡翠台,http://113.117.74.11:808/hls/25/index.m3u8
+翡翠台高清,http://113.117.74.11:808/hls/67/index.m3u8
+星河台,http://113.117.74.11:808/hls/135/index.m3u8
+全民DJ,https://vd3.bdstatic.com/mda-masr9888r7vhz9hu/hd/mda-masr9888r7vhz9hu.mp4
+
+
 央视,#genre#
 中央1台,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225630/index.m3u8?$移动高清720P#http://111.20.106.13:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-1/1.m3u8?$移动超清1080P#http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8?$移动超清1080P#http://iptv.tvfix.org/hls/cctv1hd.m3u8?$全网超清1080P#http://117.148.179.155:80/PLTV/88888888/224/3221231468/1.m3u8?$咪咕移动1080P
 中央2台,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://111.20.106.13:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P#http://iptv.tvfix.org/hls/cctv2hd.m3u8?$全网超清1080P#http://111.20.41.249:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8?$移动超清1080P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-2/1.m3u8?$移动超清1080P#http://117.148.179.147:80/PLTV/88888888/224/3221231678/1.m3u8?$咪咕移动1080P#http://39.135.138.58:18890/PLTV/88888888/224/3221225643/index.m3u8?$移动蓝光1080P
