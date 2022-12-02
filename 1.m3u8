@@ -6,6 +6,7 @@
 
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb",
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
+//"spider": "http://cdn.qiaoji8.com/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded699",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
