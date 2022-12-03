@@ -903,6 +903,10 @@ CCTV4K,https://p.ggiptv.com/v/4k.m3u8
 天津卫视,http://yfsl.vsd.gehua.net.cn/live/TianJinHD_1200.m3u8
 天津卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
+滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
+滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 滨海生活,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
 宝坻电视台,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 宁河新闻,http://wshls.live.migucloud.com:80/live/RQXD0636_C0/playlist.m3u8
