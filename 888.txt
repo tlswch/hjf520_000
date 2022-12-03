@@ -97,7 +97,8 @@ DJ新歌上线,https://vd3.bdstatic.com/mda-nckdkm6sj1p9q7c9/sc/cae_h264_delogo/
 广汉新闻综合,http://live.sctvcloud.com/live/guanghan/playlist.m3u8
 甘洛综合频道,http://live.sctvcloud.com/live/ganluo/playlist.m3u8
 东兴综合频道,http://live.sctvcloud.com/live/dongxing/playlist.m3u8
-眉山公共频道[1920*1080],http://live2.scmstv.cn/ggpd/sd/live.m3u8眉山综合频道[1920*1080],http://live1.scmstv.cn/gqpd/sd/live.m3u8
+眉山公共频道[1920*1080],http://live2.scmstv.cn/ggpd/sd/live.m3u8
+眉山综合频道[1920*1080],http://live1.scmstv.cn/gqpd/sd/live.m3u8
 
 
 
