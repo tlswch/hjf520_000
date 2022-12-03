@@ -89,6 +89,16 @@ ChannelV,http://113.117.74.11:808/hls/88/index.m3u8
 翡翠台高清,http://113.117.74.11:808/hls/67/index.m3u8
 星河台,http://113.117.74.11:808/hls/135/index.m3u8
 全民DJ,https://vd3.bdstatic.com/mda-masr9888r7vhz9hu/hd/mda-masr9888r7vhz9hu.mp4
+情歌DJ舞曲,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
+新歌,https://vd4.bdstatic.com/mda-ncg9dxe96d9039u2/sc/cae_h264_delogo/1647648778266965968/mda-ncg9dxe96d9039u2.mp4
+DJ新歌上线,https://vd3.bdstatic.com/mda-nckdkm6sj1p9q7c9/sc/cae_h264_delogo/1647859589943780399/mda-nckdkm6sj1p9q7c9.mp4
+江油新闻综合,http://live.sctvcloud.com/live/jiangyou/playlist.m3u8
+会理新闻频道,http://live.sctvcloud.com/live/huili/playlist.m3u8
+广汉新闻综合,http://live.sctvcloud.com/live/guanghan/playlist.m3u8
+甘洛综合频道,http://live.sctvcloud.com/live/ganluo/playlist.m3u8
+东兴综合频道,http://live.sctvcloud.com/live/dongxing/playlist.m3u8
+眉山公共频道[1920*1080],http://live2.scmstv.cn/ggpd/sd/live.m3u8眉山综合频道[1920*1080],http://live1.scmstv.cn/gqpd/sd/live.m3u8
+
 
 
 央视,#genre#
