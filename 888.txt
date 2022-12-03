@@ -191,7 +191,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 
 
-🐼丨卫视频道,#genre#
+卫视频道,#genre#
 
 湖南卫视,http://124.220.17.172/as.php?id=20
 湖南卫视,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296203.m3u8
