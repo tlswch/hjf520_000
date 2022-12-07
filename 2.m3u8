@@ -230,6 +230,7 @@ filterable: 1,
 {"key":"csp_xBPQ_如如","name":"如如影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/hjf520/000/raw/branch/master/JS/%e5%a6%82%e5%a6%82%e5%bd%b1%e8%a7%86.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb"},
 {"key":"csp_xBPQ_红领巾","name":"红领巾","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/hjf520/000/raw/branch/master/JS/%e7%ba%a2%e9%a2%86%e5%b7%be.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb"},
 {"key":"csp_app_段友影视","name": "   🍜段友影视2","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shangjihuoke.com/api.php/tv.vod","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb"},
+
 {
 		"key": "py_huya",
 		"name": "🔥虎牙（直播PY）",
