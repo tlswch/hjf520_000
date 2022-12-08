@@ -92,7 +92,7 @@ sites:[
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_zxzj.py","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_zxzj.py","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/hjf521/tvbox/raw/master/0902.jar"
 	},
 {"key":"csp_Auete","name":"🐼奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {
