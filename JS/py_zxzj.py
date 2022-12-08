@@ -189,7 +189,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		"player": {
 			"dpp": {
 				"sh": "DP播放",
-				"pu": "https://jx.zxzj.vip/dplayer.php?url=",
+				"pu": "http://rxjx.kuanjv.com/allm3u8.php?url=",
 				"sn": 1,
 				"or": 999
 			}
