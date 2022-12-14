@@ -122,7 +122,7 @@ sites:[
 {"key":"韩剧资源","name":"👆韩剧资源(切)🎷","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"八戒资源","name":"👆八戒资源(切)🎷","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"南国影源","name":"👆南国影源(切)🎷","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_Czsapp","name":"📔大厂┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czsapp","name":"📔大厂┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj23c2e6c9e02044a6aa43d7a6a742be6e2;md5;275db87f32779db0e3b5180de2ab1f23"},
 {"key":"U酷资源","name":"👍U酷资源(优)💎","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"爱酷影视","name":"💖爱酷影视(优)💎","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_135kan","name":"📺135看看(XP)💎","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/135kan.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb"},
