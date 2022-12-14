@@ -68,7 +68,15 @@ sites:[
 "ext":"https://agit.ai/hjf520/000/raw/branch/master/JS/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb"},
 {"key":"csp_xbb_茶杯狐","name":"  🗼茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json","jar":"http://www.yunwp.cn/api/v3/file/get/1156/tvbox.png?sign=jN7zFmA_fzlj3pfu9UW26X-GPo_OUFBTvIsQ_95wWuU%3D%3A0"},
 {"key":"csp_xbb_Nike影视","name":"  🎡Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/Nike%e5%bd%b1%e8%a7%86%e7%bd%91.json","jar":"http://www.yunwp.cn/api/v3/file/get/1156/tvbox.png?sign=jN7zFmA_fzlj3pfu9UW26X-GPo_OUFBTvIsQ_95wWuU%3D%3A0"},
-
+{
+            "key": "Nkdy",
+            "name": "🎞️难看电影",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cc.jar"
+        },   
 
 {
 		"key": "py_ikan",
