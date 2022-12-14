@@ -67,7 +67,15 @@ sites:[
 "ext":"https://agit.ai/hjf520/000/raw/branch/master/JS/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb"},
 {"key":"csp_xbb_茶杯狐","name":"  🗼茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json","jar":"http://www.yunwp.cn/api/v3/file/get/1156/tvbox.png?sign=jN7zFmA_fzlj3pfu9UW26X-GPo_OUFBTvIsQ_95wWuU%3D%3A0"},
 {"key":"csp_xbb_Nike影视","name":"  🎡Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/Nike%e5%bd%b1%e8%a7%86%e7%bd%91.json","jar":"http://www.yunwp.cn/api/v3/file/get/1156/tvbox.png?sign=jN7zFmA_fzlj3pfu9UW26X-GPo_OUFBTvIsQ_95wWuU%3D%3A0"},
-
+{
+            "key": "Nkdy",
+            "name": "🎞️难看电影",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/cc.jar"
+        },   
 
 {
 		"key": "py_ikan",
@@ -346,7 +354,8 @@ filterable: 1,
             "name" : "❤喵了个咪(DRPY)",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
+            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js",
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar"
         },
 	{"key":"csp_hsck",		"name":"❤Hsck","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar": "http://52bsj.vip:81/api/v3/file/get/61635/18.jar?sign=TqxkdwFQQUaAK59b950h1sgG8P6HKPbIGIFgvsBrhtQ%3D%3A0"},	
     {
@@ -362,33 +371,38 @@ filterable: 1,
             "name" : "❤banan(DRPY)",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/banan.js"
+            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/banan.js",
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar"
         },
 		{
             "key" : "drpy_js_养端",
             "name" : "❤养端（DRPY）",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%85%BB%E7%AB%AF.js"
+            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%85%BB%E7%AB%AF.js",
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar"
         },
 		{
             "key" : "drpy_js_吸瓜",
             "name" : "❤吸瓜(DRPY)",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%90%B8%E7%93%9C.js"
+            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%90%B8%E7%93%9C.js",
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar"
         },
 		{
             "key" : "drpy_js_18av",
             "name" : "❤18av（DRPY）",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/18av.js"
+            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/18av.js",
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar"
         },
 {"key":"*皇冠资源","name":"*❤皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key": "*AIvin","name": "*❤AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key": "*AIvin","name": "*❤AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar"},
 {"key":"csp_biubiu_GAOAA","name":"*❤GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42848/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE%3D%3A0",
-"jar":"http://52bsj.vip:81/api/v3/file/get/41344/jar0826.jar?sign=ynL7G6jUsM4xB5uXv1Ph-U6_QjzfeRLY0IvJkzErbeI%3D%3A0"
+            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar"
     },
 {"key": "精工厂","name": "*❤精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
 {"key":"说明6","name":"---持续更新维护---","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
