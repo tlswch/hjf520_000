@@ -1516,8 +1516,8 @@ TURKCE ALTAZILI YENI,http://tduzsfhg.megatv.fun/iptv/A2U3C8FHYB5PPQ/12154/index.
 密友第7集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/b4e06e47/index.m3u8
 密友第8集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/523b6cc5/index.m3u8
 密友第9集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/dcdc678a/index.m3u8
-密友第10集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/d2475114/index.m3u8
-密友第11集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/0d5f47e6/index.m3u8
+密友第10集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/d2475114/index.m3u8
+密友第11集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/13/c1a8ebaf/index.m3u8
 密友第12集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/0d5f47e6/index.m3u8
 密友第13集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/0d5f47e6/index.m3u8
 密友第14集,https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/0d5f47e6/index.m3u8
