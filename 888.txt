@@ -100,8 +100,8 @@ DJ新歌上线,https://vd3.bdstatic.com/mda-nckdkm6sj1p9q7c9/sc/cae_h264_delogo/
 眉山公共频道[1920*1080],http://live2.scmstv.cn/ggpd/sd/live.m3u8
 眉山综合频道[1920*1080],http://live1.scmstv.cn/gqpd/sd/live.m3u8
 
-央视频道,#genre#
-体育,#genre#
+
+体育频道,#genre#
 CCTV5,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
@@ -111,7 +111,7 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 咪咕4,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 
-央视,#genre#
+央视频道,#genre#
 CCTV1,http://39.184.224.99:9080/newlive/live/hls/1/live.m3u8
 CCTV2,http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
 CCTV3,http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8
