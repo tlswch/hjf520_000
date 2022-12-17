@@ -19,7 +19,7 @@
 ],
 lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
 sites:[
-{"key":"小韩资源1",name:"🍎西夏资源", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
+{"key":"小韩资源1",name:"🍎西夏资源", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"6deed4548c44b18d268a5d828f04d86e},
 {key:'小韩资源3',name:'🍎西夏资源',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源4',name:'🍎西夏资源',type:1,api:'https://api.1080zyku.com/inc/apijson.php', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源5',name:'🍎西夏资源',type:1,api:'https://api.guangsuapi.com/api.php/provide/vod/', "playUrl":"https://www.guangsujx.com/m3u8/?url=",searchable:1,quickSearch:1,filterable:0}, 
