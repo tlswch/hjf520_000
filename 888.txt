@@ -101,7 +101,7 @@ DJ新歌上线,https://vd3.bdstatic.com/mda-nckdkm6sj1p9q7c9/sc/cae_h264_delogo/
 眉山综合频道[1920*1080],http://live1.scmstv.cn/gqpd/sd/live.m3u8
 
 央视频道,#genre#
-CCTV1,http://124.220.17.172/as.php?id=1
+CCTV1,http://player.ddkq.vip/tv/bofang/cctv1.html?id=3
 CCTV1,http://117.169.120.242:8080/wh7f454c46tw1490432856_1716888660/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?icpid=88888888&RTS=1663085841&from=79102&ocs=2_117.169.120.136_8080&hms_devid=1403&online=1663085841&vqe=3
 
 CCTV2,http://124.220.17.172/as.php?id=2
