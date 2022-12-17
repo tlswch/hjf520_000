@@ -17,7 +17,7 @@
 {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
 {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
-lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9pcHR2LW9yZy5naXRodWIuaW8vaXB0di9pbmRleC5tM3U=']}]}],
+lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=https://iptv-org.github.io/iptv/index.nsfw.m3u']}]}],
 sites:[
 {"key":"小韩资源1",name:"🍎西夏资源", type:3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1，},
 {key:'小韩资源3',name:'🍎西夏资源',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
