@@ -93,15 +93,14 @@ sites:[
 
 {"key":"mjxq_spider","name":"🌏美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1, "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar"},
 {
-		"key": "py_zxzj",
-		"name": "在线之家（PY）",
-		"type": 3,
-		"api": "py_zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_zxzj.py"
-	},
+            "key": "csp_新视觉",
+            "name": "🍁新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E6%96%B0%E8%A7%86%E8%A7%89.jar;md5;ECF7785B6F419593E3B1EE190F3903D1"
+        }, 
 {"key":"csp_Auete","name":"🐼奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {
 			"key":"csp_kuaikan",
