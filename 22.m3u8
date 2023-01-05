@@ -416,16 +416,6 @@ filterable: 1,
 {"key":"阳光资源","name":"🍭阳光资源","type":1,"api":"http://www.xxzy.org/api.php/provide/vod/at/xml/",playUrl:'https://jiexi.xxzy.org/?url=',"searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Gitcafe","name":"纸条（ts）","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
 {
-key: "Yisou",
-name: "易搜",
-type: 3,
-api: "csp_Yisou",
-searchable: 1,
-quickSearch: 1,
-filterable: 1,
-ext: "57a6d0febcba41c480eb14be6cfcb6f7"
-},
-{
 key: "Gitcafe",
 name: "小纸条",
 type: 3,
