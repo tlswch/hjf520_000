@@ -424,7 +424,7 @@ ext: "57a6d0febcba41c480eb14be6cfcb6f7"
 },
 {
 key: "Gitcafe",
-name: "🍎小纸条2",
+name: "🍎小纸条",
 type: 3,
 api: "csp_GitCafe",
 searchable: 1,
