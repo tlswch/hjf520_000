@@ -198,7 +198,7 @@ ext: "https://www.qiaoji8.com/tvbox/bili.json"
 {"key":"csp_xbb_凛冬又至","name":"🍎凛冬又至","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/凛冬又至.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 {"key":"csp_xbb_老电影","name":"🍎老电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/老电影.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 {"key":"csp_xbb_139影视","name":"🍎139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/139影视.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"}, 
-{"key":"csp_六度TV","name":"  🍎六度TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/mabox/box/src/commit/4f511029c1ef70a5747314781cb1f08d42fea2b1/json/Json_%e5%85%ad%e5%ba%a6TV.json","jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E6%96%B0%E8%A7%86%E8%A7%89.jar;md5;ECF7785B6F419593E3B1EE190F3903D1"},
+{"key":"TOM资源","name":"  🍎TOM资源","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_xBiu_追剧大人",
 "name":"️🍎追剧达人",
 "type":3,
@@ -266,7 +266,7 @@ ext: "https://www.qiaoji8.com/tvbox/bili.json"
 {"key":"U酷资源","name":"🍎U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"爱酷影视","name":"🍎爱酷影视(优)","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_135kan","name":"🍎135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/135kan.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
-{"key":"csp_xpath_dingzidy","name":"🍎钉子电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/dingzidy.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
+{"key":"快竞技","name":"🍎快竞技","type":1,"api":"https://api.kjjapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_xpath_paopaoshipin","name":"🍎泡泡视频(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/paopaoshipin.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 {"key":"csp_xpath_xfeiji","name":"🍎小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/xfeiji.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 
