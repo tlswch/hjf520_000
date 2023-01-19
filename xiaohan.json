@@ -1,5 +1,5 @@
 {
-"spider":"http://cdn.qiaoji8.com/apple1222.jar;md5;5a1c7c3f443667d69838a1adad3c977b",
+"spider":"http://cdn.qiaoji8.com/qj23110.jar;md5;fc09f6d5f29525e5b5d07e92afb5be26",
 "rules": [
 {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
 {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
