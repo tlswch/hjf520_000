@@ -23,7 +23,7 @@ sites:[
 {key:'小韩资源3',name:'🍎恭祝各位🏮',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源4',name:'🍎群内好友🏮',type:1,api:'https://api.tomcaiji.com/api.php/provide/vod/?ac=list', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
 {key:'小韩资源5',name:'🍎新年快乐🏮',type:0,api:'https://taopianapi.com/home/cjapi/as/fei5/vod/xml', searchable:0,quickSearch:0,filterable:0}, 
-{"key":"csp_QQ","name":"🍎腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
+{"key":"csp_QQ","name":"🍎腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
          {
             "key": "🍎csp_MGTV",
             "name": "🍎芒果TV",
@@ -31,8 +31,7 @@ sites:[
             "api": "csp_MGTV",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": ""
+            "filterable": 1
         },
         {
             "key": "🍎csp_IQIYI",
@@ -41,8 +40,7 @@ sites:[
             "api": "csp_IQIYI",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": ""
+            "filterable": 1
         },
 	{"key":"csp_SP360","name":"🍎360┃SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
 	{"key": "youku","name": "🍎优酷","type": 0,"api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0,"categories": ["综艺",
