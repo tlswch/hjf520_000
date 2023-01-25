@@ -448,6 +448,8 @@ ext: "57a6d0febcba41c480eb14be6cfcb6f7"
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"解析","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
 {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"西夏影视专用","type":1,"url":"http://api.xiaomaomi.tv/api/?key=28468eb35ff2a1528159a98357664453&url="},
+
 {
 		"name": "云you解析①",
 		"type": 1,
