@@ -11,6 +11,10 @@
             "name": "西夏影视接口2"
         },
         {
+               "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json#",
+                "name": "🎋月光接口带18＋"
+      },
+        {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🌈每日推送"
         },
