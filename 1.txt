@@ -18,9 +18,17 @@
             "url": "http://刚刚.live/猫",
             "name": "🕍肥猫"
         },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "吾爱接口"
+        },
+       {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "巧记接口"
+        },
        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "巧记接口"
+            "name": "巧记接口2"
         },
       {
             "url": "http://home.jundie.top:81/top98.json",
@@ -45,24 +53,24 @@
         
      {
         "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-       "name":"📽接口1"
+       "name":"📽网络接口1"
       },
 {
              "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
-            "name": "📽接口2"
+            "name": "📽网络接口2"
         },    
 
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json#",
-            "name": "🌲接口3"
+            "name": "🌲网络接口3"
         },
        {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json ",
-            "name": "🖥接口4"
+            "name": "🖥网络接口4"
         },
      {
             "url": "https://pastebin.com/raw/sbPpDm9G ",
-            "name": "📻接口5"
+            "name": "📻网络接口5"
         }
 
    ]
