@@ -2,7 +2,7 @@
 {
     "urls": [
 {
-            "url": "https://agit.ai/hjf520/000/raw/branch/master/22.m3u8",
+            "url": "https://gitee.com/hjf521/000/raw/master/%E8%A5%BF%E5%A4%8F.bmp",
             "name": "西夏影视接口1"
         },
  
