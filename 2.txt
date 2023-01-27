@@ -1,3 +1,11 @@
-{ "storeHouse": [ {"sourceName":"西夏影视主仓","sourceUrl":"https://agit.ai/hjf520/000/raw/branch/master/1.txt"},
+{ "storeHouse": [ {"sourceName":"✨西夏影视主仓★","sourceUrl":"https://agit.ai/hjf520/000/raw/branch/master/1.txt"},
 
-{"sourceName":"✨518 1仓库","5sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox.txt"}, {"sourceName":"🐻518 2仓库","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"}, {"sourceName":"⛽️518 3仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox.txt"}, {"sourceName":"🏓518 4仓库","sourceUrl":"https://github.com/caesar518/my/raw/main/mybox2.txt"}, {"sourceName":"☁️云星仓库","sourceUrl":"https://maoyingshi.cc/可视TV/117/api.json"}, {"sourceName":"⛵️星河仓库","sourceUrl":"https://pan.css.lc/api/v3/file/get/89945/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E5%A4%9A%E7%BA%BF%E8%B7%AF%E4%BB%93%E5%BA%93.txt?sign=2ajJ85uhS8mnmvvOICeW4a8d1AeVjp5VFZvBgbAz0cc%3D%3A0"} ] }
+{"sourceName":"✨518 1仓库★","5sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox.txt"}, {"sourceName":"🐻518 2仓库★","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"}, 
+{"sourceName":"⛵️星河仓库★","sourceUrl":"https://pan.css.lc/api/v3/file/get/89945/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E5%A4%9A%E7%BA%BF%E8%B7%AF%E4%BB%93%E5%BA%93.txt?sign=2ajJ85uhS8mnmvvOICeW4a8d1AeVjp5VFZvBgbAz0cc%3D%3A0"},
+{"sourceName":"🔥搜集仓①★","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/79014/%E8%87%AA%E5%BB%BA%E4%BB%93%E5%BA%93.txt?sign=bNNnkL0VDzkLMrxi_3PUuJraZnhZ6xt12EHAwlxM-AY%3D%3A0"},
+{"sourceName":"🔥影视仓②★","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/69627/%E7%B2%BE%E7%AE%801.txt?sign=Bf9irXcAxZFtyv0Z92gw59fcugPGxcsT5Mmp1C4EtQs%3D%3A0"},
+{"sourceName":"🔥影视仓③★","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/69628/%E7%B2%BE%E7%AE%802.txt?sign=6Plt1iLvoG5736qtWdtBoMJcr2E08IN7s5GT5Ti5iW4%3D%3A0"},
+{"sourceName":"🔥影视仓④★","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/69629/%E7%B2%BE%E7%AE%803.txt?sign=30SnCteDHzzYVrQ4o5YViMj9t0flna0l2YGmoGX5DlY%3D%3A0"}
+
+]
+}
