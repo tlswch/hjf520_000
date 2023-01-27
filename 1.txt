@@ -7,8 +7,12 @@
         },
  
          {
-            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+            "url": "https://agit.ai/CloudMist/TVBox/raw/branch/master/wyh.json",
             "name": "西夏影视接口2"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "西夏影视接口3"
         },
         {
                "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json#",
