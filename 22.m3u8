@@ -21,7 +21,7 @@ lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&
 sites:[
 {"key":"小韩资源1",name:"🍎小苹果🏮加QQ群{752742516}以防走失♠ ", type:3,"type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/ttpg.jar"},
 {key:'小韩资源3',name:'🍎库点资源🏮加QQ群{752742516}以防走失♠',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
-{key:'小韩资源4',name:'🍎樱花资源🏮加QQ群{752742516}以防走失♠',type:1,api:'https://yhzy.cc/api.php/provide/vod/?ac=list', "playUrl":"https://jx.yhzybf.com/player/jx.php?url=",searchable:1,quickSearch:1,filterable:0},
+{key:'小韩资源4',name:'🍎樱花资源🏮加QQ群{752742516}以防走失♠',type:0,api:'https://yhzy.cc/api.php/provide/vod/?ac=list', "playUrl":"https://jx.yhzybf.com/player/jx.php?url=",searchable:0,quickSearch:0,filterable:0},
 {key:'小韩资源5',name:'🍎淘片资源🏮加QQ群{752742516}以防走失♠',type:0,api:'https://taopianapi.com/home/cjapi/as/fei5/vod/xml', searchable:0,quickSearch:0,filterable:0}, 
 {"key":"csp_QQ","name":"🍎腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,
             "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372"},
