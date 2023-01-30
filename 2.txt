@@ -19,6 +19,11 @@ sourceUrl: "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"
 },
 {"sourceName":"✨518 1仓库★","5sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox.txt"}, {"sourceName":"🐻518 2仓库★","sourceUrl":"https://agit.ai/caesar_518/my/raw/branch/master/mybox2.txt"}, 
 {"sourceName":"⛵️星河仓库★","sourceUrl":"https://pan.css.lc/api/v3/file/get/89945/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E5%A4%9A%E7%BA%BF%E8%B7%AF%E4%BB%93%E5%BA%93.txt?sign=2ajJ85uhS8mnmvvOICeW4a8d1AeVjp5VFZvBgbAz0cc%3D%3A0"},
+{"sourceName":"🔥影视仓库①","sourceUrl":"https://agit.ai/l/l/raw/branch/master/a"},
+{"sourceName":"🔥影视仓库②","sourceUrl":"https://agit.ai/l/l/raw/branch/master/b"},
+{"sourceName":"🔥影视仓库③","sourceUrl":"https://agit.ai/l/l/raw/branch/master/c"},
+{"sourceName":"🔥影视仓库④","sourceUrl":"https://agit.ai/l/l/raw/branch/master/d"},
+
 {"sourceName":"🔥网络仓①★","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
 {"sourceName":"🔥网络仓①★","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
 
