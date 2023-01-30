@@ -179,7 +179,7 @@ api: "csp_Cokemv",
 searchable: 1,
 playerType: 2,
 quickSearch: 1,
-filterable: 1
+filterable: 1,"jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"
 },
 {
 key: "NoSearch_csp_BBB",
@@ -209,7 +209,7 @@ ext: "https://www.qiaoji8.com/tvbox/bili.json"
 "searchable":1,
 "quickSearch":1,
 "filterable":0,
-"ext":"https://agit.ai/hjf520/000/raw/branch/master/JS/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
+"ext":"https://agit.ai/hjf520/000/raw/branch/master/JS/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json"},
 {"key":"csp_xbb_茶杯狐","name":"  🍎茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 {"key":"csp_xbb_Nike影视","name":"  🍎Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/Nike%e5%bd%b1%e8%a7%86%e7%bd%91.json","jar":"http://www.yunwp.cn/api/v3/file/get/1156/tvbox.png?sign=jN7zFmA_fzlj3pfu9UW26X-GPo_OUFBTvIsQ_95wWuU%3D%3A0"},
  
@@ -285,7 +285,7 @@ ext: "https://www.qiaoji8.com/tvbox/bili.json"
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_cyys.py"
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_cyys.py","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"
 	},
 {"key":"csp_Kunyu77","name":"🍎七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372"},
 {"key": "csp_xpNmys","name": "🍎农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372","ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"},
