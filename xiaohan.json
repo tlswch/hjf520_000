@@ -242,14 +242,7 @@ ext: "https://www.qiaoji8.com/tvbox/bili.json"
 			"searchable": 1,
 			"ext":""
 	    },
-		{       "key": "Lezhu_spider",
-	     "name": "🍎乐猪影视",
-	     "api": "csp_Lezhu",
-	     "type": 3,
-	     "filterable": 1,
-	     "quickSearch": 1,
-	     "searchable": 1,
-	     "jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372"
+		{"key": "csp_lezhu","name": "🍎乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"
     },
 {"key":"csp_biubiu_348电影网","name":"🍎348电影网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/348电影网.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 {"key":"红牛资源","name":"🍎红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
