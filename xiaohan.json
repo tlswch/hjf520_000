@@ -16,7 +16,8 @@ lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&
 sites:[
 {"key":"小韩资源1",name:"🍎小苹果🏮加QQ群{752742516}以防走失♠ ", type:3,"type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/ttpg.jar"},
 {key:'小韩资源3',name:'🍎库点资源🏮加QQ群{752742516}以防走失♠',type:1,api:'https://kudian10.com/api.php/provide/vod/?ac=list', "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
-{key:'小韩资源4',name:'🍎汤姆资源🏮加QQ群{752742516}以防走失♠',type:1,api:'https://api.tomcaiji.com/api.php/provide/vod/?ac=list', "playUrl":"https://vip.zykbf.com/?url=",searchable:1,quickSearch:1,filterable:0},
+{key:'樱花资源',name:'🍎樱花资源🏮加QQ群{752742516}以防走失♠',type:0,api:'https://yhzy.cc/api.php/provide/vod/at/xml', "playUrl":"https://jx.yhzybf.com/player/jx.php?url=",searchable:1,quickSearch:1,filterable:1,
+            "jar": "https://gitee.com/hjf521/tvbox/raw/master/0902.jar"},
 {key:'小韩资源5',name:'🍎淘片资源🏮加QQ群{752742516}以防走失♠',type:0,api:'https://taopianapi.com/home/cjapi/as/fei5/vod/xml', searchable:0,quickSearch:0,filterable:0}, 
 {"key":"csp_QQ","name":"🍎腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,
             "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372"},
@@ -204,7 +205,7 @@ ext: "https://www.qiaoji8.com/tvbox/bili.json"
 "quickSearch":1,
 "filterable":0,
 "ext":"https://agit.ai/hjf520/000/raw/branch/master/JS/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
-{"key":"csp_xbb_茶杯狐","name":"  🍎茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json","jar":"http://www.yunwp.cn/api/v3/file/get/1156/tvbox.png?sign=jN7zFmA_fzlj3pfu9UW26X-GPo_OUFBTvIsQ_95wWuU%3D%3A0"},
+{"key":"csp_xbb_茶杯狐","name":"  🍎茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 {"key":"csp_xbb_Nike影视","name":"  🍎Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/Nike%e5%bd%b1%e8%a7%86%e7%bd%91.json","jar":"http://www.yunwp.cn/api/v3/file/get/1156/tvbox.png?sign=jN7zFmA_fzlj3pfu9UW26X-GPo_OUFBTvIsQ_95wWuU%3D%3A0"},
  
 
@@ -258,7 +259,7 @@ ext: "https://www.qiaoji8.com/tvbox/bili.json"
 {"key":"韩剧资源","name":"🍎韩剧资源","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"八戒资源","name":"🍎八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"南国影源","name":"🍎南国影源(","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_Czsapp","name":"🍎大厂┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj23c2e6c9e02044a6aa43d7a6a742be6e2;md5;275db87f32779db0e3b5180de2ab1f23"},
+{"key":"csp_Czsapp","name":"🍎大厂┃SP","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 {"key":"U酷资源","name":"🍎U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"爱酷影视","name":"🍎爱酷影视(优)","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_135kan","name":"🍎135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/135kan.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
@@ -418,7 +419,7 @@ categories: [
 {"key":"99动漫","name":"🍎99动漫","type":1,"api":"https://99caiji.com/api.php/provide/vod/","playUrl":"https://jx.kujiexi.net/m3u8.php?url=",searchable:1,quickSearch:1,filterable:0},
 {"key":"Gitcafe","name":"🍎小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 {"key":"天猫资源","name":"🍎天猫资源","type":1,"api":"https://www.tianmaozy.com/api.php/provide/vod/at/json","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
-{"key":"阳光资源","name":"🍎阳光资源","type":1,"api":"http://www.xxzy.org/api.php/provide/vod/at/xml/",playUrl:'https://jiexi.xxzy.org/?url=',"searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
+{"key":"阳光资源","name":"🍎阳光资源","type":0,"api":"http://www.xxzy.org/api.php/provide/vod/at/xml/",playUrl:'https://jiexi.xxzy.org/?url=',"searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xml_39影视","name":"🍎3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_鱼乐资源","name":"🍎鱼乐资源","type":1,"api":"https://api.yulecj.com/api.php/provide/vod/?ac=list","playUrl":"https://lyw28.com/m3u8/?url=","searchable":1,"quickSearch":1},
 {
@@ -436,7 +437,7 @@ ext: "57a6d0febcba41c480eb14be6cfcb6f7"
 {"key":"说明2","name":"---🍎【649320862】---","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明3","name":"--- 🍎【752742516】 ---","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明4","name":"---🍎以防丢失---","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}],
-  "parses":[
+ "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
