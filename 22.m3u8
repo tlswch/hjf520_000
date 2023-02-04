@@ -106,16 +106,11 @@ api: "https://api.1080zyku.com/inc/apijson.php?ac=list",
 "playUrl":"https://vip.zykbf.com/?url=","searchable":1,"quickSearch":1},
 
 {
-key: "dm77_spider",
-name: "🍎齐齐动漫",
-api: "csp_DM77",
-type: 3,
-filterable: 1,
-playerType: 2,
-quickSearch: 1,
-searchable: 1,
-ext: ""
-},
+key: "68资源",
+name: "🍎68资源",
+type: 1,
+api: "https://caiji.68zyapi.com/api.php/provide/vod/?ac=list  ",
+"playUrl":" https://jiexi.68zy.vip/m3u8/?url=  ","searchable":1,"quickSearch":1},
 
 {
 key: "niketv_spider",
