@@ -1,4 +1,4 @@
-央视,#genre#	
+央视频道,#genre#	
 
 CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
@@ -119,7 +119,7 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 
-卫视,#genre#
+卫视频道,#genre#
 
 江苏卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f//index.m3u8
 北京卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f//index.m3u8
@@ -1050,7 +1050,7 @@ NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.
 心灵音乐,http://txtest-xp2p.p2p.huya.com/src/1099531753567-1099531753567-86439614151131136-2199063630590-10057-A-0-1.xs
 杰伦MTV,http://epg.112114.xyz/douyu/7537296
 
-测试1,#genre#
+测试频道1,#genre#
 
 
 TVB新闻台,http://pull-l3-cny.douyincdn.com/third/stream-c8eff4963f336b2f831780fb09a37fb4.flv
@@ -1105,7 +1105,7 @@ HBO强档影院,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929
 八大综合HD,http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.flv
 
 
-测试2,#genre#
+测试频道2,#genre#
 
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
@@ -1174,7 +1174,7 @@ HBO X,http://208.115.225.174:14165
 好莱坞电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
 动物星球,http://208.115.225.174:14192
 
-测试3,#genre#
+测试频道3,#genre#
 1,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 2,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 3,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
