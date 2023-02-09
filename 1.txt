@@ -15,7 +15,7 @@
             "name": "西夏影视接口3"
         },
         {
-            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json#",
+            "url": "https://gitee.com/hjf521/000/raw/master/1675926916552.bmp",
             "name": "西夏福利接口 "
         },
         {
