@@ -15,17 +15,17 @@
             "name": "西夏影视接口3"
         },
         {
+            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json#",
+            "name": "西夏福利接口 "
+        },
+        {
             "url": "https://agit.ai/mmfan/itvbox/raw/branch/master/2024.json",
             "name": "恋影TV 接口 "
         },
         {
-            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json#",
-            "name": "特别福利 接口 "
-        },
-        {
                "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json#",
                 "name": "🎋月光接口带18＋"
-      },
+        },
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "🌈每日推送"
