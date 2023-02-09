@@ -197,7 +197,7 @@ ext: "https://www.qiaoji8.com/tvbox/bili.json"
 {"key":"csp_xbb_老电影","name":"🍎老电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/老电影.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2"},
 {"key":"csp_xbb_139影视","name":"🍎139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/139影视.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2"}, 
 {"key":"TOM资源","name":"  🍎TOM资源","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xbb_茶杯狐","name":"  🍎茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json","jar": "img+http://hutool.ml/jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
+{"key":"csp_xbb_茶杯狐","name":"  🍎茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2"},
 {"key":"csp_xbb_Nike影视","name":"  🍎Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/mabox/box/raw/branch/main/json/Nike%e5%bd%b1%e8%a7%86%e7%bd%91.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2"},
  
 {"key":"csp_xbb_搜狗影院","name":"🍎搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/搜狗影院.json","jar": "http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
@@ -336,7 +336,7 @@ categories: [
 {"key":"鱼乐资源","name":"🍎鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"百度资源","name":"🍎百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"🍎789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/from/789pan/","searchable":1,"quickSearch":1},
-{"key":"csp_biubiu_黑狐影视ns","name":"🍎黑狐影视(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/黑狐影视(ns).json","jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
+{"key":"csp_biubiu_黑狐影视ns","name":"🍎黑狐影视(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/黑狐影视(ns).json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2"},
 {"key":"影图","name":"🍎影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘零影院","name":"🍎飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"艾旦影视","name":"🍎艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
