@@ -19,7 +19,7 @@
             "name": "恋影TV 接口 "
         },
         {
-            "url": "https://agit.ai/fangzimo/TVBox/raw/branch/main/%e7%89%b9%e5%88%ab%e6%8e%a5%e5%8f%a3.json#",
+            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json#",
             "name": "特别福利 接口 "
         },
         {
