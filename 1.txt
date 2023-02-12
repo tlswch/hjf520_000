@@ -16,11 +16,15 @@
         },
         {
             "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json#",
-            "name": "西夏福利接口 "
+            "name": "🔞西夏福利接口 "
         },
         {
-            "url": "https://agit.ai/mmfan/itvbox/raw/branch/master/2024.json",
-            "name": "恋影TV 接口 "
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星日记接口 "
+        },
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "唐长老接口 "
         },
         {
                "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json#",
@@ -66,28 +70,35 @@
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "🕍小白接口"
         },
-        
-     {
-        "url":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-       "name":"📽网络接口1"
-      },
-{
-             "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
-            "name": "📽网络接口2"
-        },    
-
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json#",
-            "name": "🌲网络接口3"
+            "name": "🌲网络接口1"
         },
        {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json ",
-            "name": "🖥网络接口4"
+            "name": "🖥网络接口2"
         },
      {
             "url": "https://pastebin.com/raw/sbPpDm9G ",
-            "name": "📻网络接口5"
-        }
+            "name": "📻网络接口3"
+        },
+        {"url":"http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt","name":"🔞电视免VIP"},
+
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json","name":"🔞夜视界C"},
+
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieD.json","name":"🔞夜视界D"},
+
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieE.json","name":"🔞夜视界E"},
+
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieF.json","name":"🔞夜视界F"},
+
+{"url":"https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json","name":"🔞wlyz88FL","time":"2022-08-26 02:00:00"},
+
+{"url":"https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg","name":"🔞8f1c5"},
+
+{"url":"https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt","name":"🔞chengxue"},
+
+{"url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json","name":"🔞mmtekamu"}
 
    ]
    
