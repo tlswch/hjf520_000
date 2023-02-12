@@ -1,6 +1,4 @@
 ﻿
-// 加微信-【XHYS_VIP】以防丢失：持续维护更新......
-// 本接口 https://agit.ai/hjf520/000/raw/branch/master/1.m3u8  收集自网络上github上各位大佬的分享，自用接口，感谢每位无私奉献和分享的大佬！如有冒犯请联系。
 {
 "spider":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961",
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
@@ -17,9 +15,9 @@
 {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
 {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
-lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2hqZjUyMC8wMDAvcmF3L2JyYW5jaC9tYXN0ZXIvODg4LnR4dA==']}]}],
+lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=']}]}],
 sites:[
-{"key":"小韩资源1",name:"🍎停用🏮加QQ群{731631267}以防走失♠ ", "type": 3,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/ttpg.jar"}],
+{"key":"小韩资源1",name:"🍎停用🏮加QQ群{731631267}以防走失♠ ", type:3,"type": 3,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/ttpg.jar"}],
  "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
