@@ -94,9 +94,7 @@
 
 {"url":"http://152.136.125.181:81/MM/dianbos/yeshijieD.json","name":"🔞夜视界D"},
 
-{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieE.json","name":"🔞夜视界E"},
-
-{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieF.json","name":"🔞夜视界F"}
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieF.json","name":"🔞夜视界E"}
 
    ]
    
