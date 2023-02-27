@@ -20,7 +20,7 @@
         },
         {
             "url": https://agit.ai/wuheng42/TVBOXZY/src/branch/main/tvbox.json",
-            "name": "西夏影视接口⑤"
+            "name": "西夏影视接口5"
         },
         {
             "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json#",
