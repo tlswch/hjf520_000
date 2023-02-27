@@ -19,6 +19,10 @@
             "name": "西夏影视接口④"
         },
         {
+            "url": https://agit.ai/wuheng42/TVBOXZY/src/branch/main/app.json",
+            "name": "西夏影视接口⑤"
+        },
+        {
             "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json#",
             "name": "🔞西夏福利接口 "
         },
